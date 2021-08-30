@@ -28,5 +28,5 @@ clones(url)
 
 ### HOW TO USE ###
 # pip install requests
-# python git-clone-bitbucket.py <username> <password> <your project key> <your work space>
+# python git-clone-bitbucket-cloud.py <username> <password> <your project key> <your work space>
 ### ---------- ###
